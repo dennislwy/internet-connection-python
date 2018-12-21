@@ -1,4 +1,5 @@
 from setuptools import setup
+from setuptools import find_packages
 
 classifiers = [
     'Development Status :: 4 - Beta',
